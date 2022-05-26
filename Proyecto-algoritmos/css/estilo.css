@@ -7,12 +7,16 @@
 .contenedor {
     padding: 0px;
     margin: auto;
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 400px;
     background-color: #ffb;
-    border: 8px dashed #993;
+    border: 1px dashed #993;
+    background-image: url("https://i.pinimg.com/564x/7f/cd/68/7fcd68182678d32c297b38721d83b23b.jpg");
 }
 
+.button {
+    background-color: rgb(61, 68, 130);
+}
 
 
 #player {
